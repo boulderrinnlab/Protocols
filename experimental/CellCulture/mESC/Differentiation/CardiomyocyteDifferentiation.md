@@ -5,9 +5,9 @@
 3. place drops of 20 µl (equals 1000 cells) onto the lid of a non-adhesive bacterial dish
 4. fill dish with 2 x 5 ml of cardiac differentiation medium and invert lid with drops onto it
 5. culture hanging drops for 2 days at 37°C and 5 - 7.5% CO<sub>2</sub>
-6. collect embryoid bodies with 5 ml of cardiac differentiation medium and transfer to a non-adhesive bacterial dish and culture them in suspension for another 2-3 days
+6. collect embryoid bodies with 5 ml of cardiac differentiation medium and transfer to a non-adhesive bacterial dish (e.g. Fisher Scientific, FB0875712) and culture them in suspension for another 2-3 days
 7. move the plate once or twice a day to avoid attachment of embryoid bodies
-8. pick single embryoid bodies with a P20 and place them in the center of a gelatinized 24-well plate filled with 1 ml of cardiac differentiation medium
+8. pick single embryoid bodies with a P20 and place them in the center of a gelatinized (Millipore, ES-006-B) 24-well plate filled with 1 ml of cardiac differentiation medium
 9. check cells daily for spontaneous contractile activity
 
 ### Cardiac differentiation medium
