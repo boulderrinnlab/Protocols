@@ -2,7 +2,7 @@
 
 1. harvest mouse ES cells by trypsinization
 2. resuspend cells in NPC differentiation medium
-3. plate 1 million cells in a gelatin-coated 10-cm dish
+3. plate 1 million cells in a gelatin-coated (Millipore, ES-006-B) 10-cm dish
 4. culture cells for 3 days with daily medium change
 
 ### NPC differentiation medium
