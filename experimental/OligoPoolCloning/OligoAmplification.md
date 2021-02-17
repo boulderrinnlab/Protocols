@@ -1,10 +1,10 @@
 # Oligo Pool Amplification Protocol
 
-**Protocol typed up by Evan Hass**  
+**Protocol typed up by Evan Hass, edits by Erika Lasda**  
 **Last modified 2020-05-07**  
 
 ## A: ePCR  
-1. Combine emulsion components 1, 2, and 3 from the Chimerx Micellula Emulsion & Purification (ePCR) Kit (Fisher NC1117239) as follows:  
+1. Combine emulsion components 1, 2, and 3 from the Chimerx Micellula Emulsion & Purification (ePCR) Kit (FisherSci NC1117239) as follows:  
 
 Component | for 1x 300 uL reaction | For 10 reactions
 --- | --- | ---
@@ -33,7 +33,7 @@ As of the writing of this protocol as a markdown file (2020-05-01), all of our l
 
 4. Add 300 uL of emulsion mix to each of 8 1.5-mL low-binding tubes  
 5. Add 50 uL of the PCR water phase mix to each low-binding tube (keep the remaining 50 uL for a control reaction), and mix by inverting a few times  
-6. Vortex tubes for 5 minutes at 4°C  
+6. Vortex tubes for 5 minutes at 4°C using Vortex Genie with Horizontal Microtube Holder (FisherSci 50728070)
 7. Split the contents of each 1.5-mL tube into 3 tubes of a PCR strip  
 8. Transfer the remaining 50 uL of PCR water phase mix to a separate PCR tube for the control reaction  
 9. Run the following program in the thermal cycler:  
@@ -68,18 +68,21 @@ As of the writing of this protocol as a markdown file (2020-05-01), all of our l
 ## C: 1.6X SPRI bead clean up (to remove DNAs <100 bp in size)
 Before starting, warm AMPure XP beads (Beckman Coulter A63881) to room temp for 30 minutes, and make fresh 80% ethanol.  
 
-1. Add 1.6X volume of vortexed AMPure beads (640 uL beads to 400 uL of eluted DNA from the ePCR DNA recovery), and mix by pipetting (gently to minimize foaming)  
+1. Determine exact sample DNA volume for each sample (probably 40 uL – 400 uL) and calculate 1.6X volume beads to use (64 uL – 640 uL). Record volumes. Add 1.6X volume of vortexed AMPure beads (640 uL beads to 400 uL of eluted DNA from the ePCR DNA recovery), and mix by pipetting (gently to minimize foaming)  
 2. Incubate for 10 minutes at room temp  
 3. Pull down beads on magnet for 2 minutes (or longer until supernatant is clear)  
 4. Discard supernatant, and keep tube on magnet  
-5. Add 200 uL 80% ethanol, incubate for 30 seconds, and discard ethanol (use p200 to aspirate)  
+5. Add 200 uL 80% ethanol, incubate for 30 seconds, keeping on magnet, and discard ethanol (use p200 to aspirate)  
 6. Repeat step 5, and discard all ethanol (use p200, then p20 or p10 to aspirate)  
 7. Dry beads at room temp for 5 minutes (or longer based on the beads volume)  
-8. Add 32 uL nuclease-free water to beads, and mix by pipetting (gently to minimize foaming)  
+8. Add 32 uL nuclease-free water to beads, and mix by pipetting (gently to minimize foaming)
+<br> *(optional) For increased concentration, add 22 uL instead*
 9. Incubate for 2 minutes at room temp  
 10. Pull down beads on magnet for 2 minutes (or longer until supernatant is clear)  
-11. Transfer 30 uL of supernatant to a new pre-labeled low-binding tube  
+11. Transfer 30 uL of supernatant to a new pre-labeled low-binding tube
+<br> *(optional) transfer 20 uL instead* 
 12. Repeat steps 8-10 to recover all of the cleaned pool  
-13. Transfer 30 uL of the supernatant to the tube from step 11  
+13. Transfer 30 uL of the supernatant to the tube from step 11 
+<br> *(optional) tilt plate to recover all elution without transferring any beads*
 
 Use 1 uL of cleaned-up ePCR to measure DNA concentration on the Qubit using the dsDNA HS Kit (Thermo Fisher Q32854). Then, dilute to ~0.5 ng/uL and run 1 uL on the Bioanalyzer (HS DNA Kit, Agilent 5067-4626) to check for a product of the expected size. Proceed to amplicon library generation to check oligo pool representation.  
