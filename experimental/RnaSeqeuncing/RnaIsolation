@@ -41,7 +41,7 @@ Reaction mix: Total volume 20 ul
 b) Incubate at 37C for 15 min.
 c) Add 2 ul of stop solution
 d) Incubate at 75C for 10 min to stop reaction
-e) dilute 22ul final to 200ul final (still tons of RNA :)
+
 
 3) Reverse Transcription
 First time around it's best to do a -RT to be sure, but our Dnase protocol is very robust and pretty much 0 DNA left.
@@ -59,7 +59,28 @@ c) Ice 1 min
 | ---------- | ------- | ---------- | ---- |
 | 4ul        |  1ul    |      1ul   |  1ul |
 
+d) mix above 
+e) 23C 10 min
+f) 50-55C 10 min
+g) 80C 10 min
+h) Add 180ul RNase free h20 total 200ul (there is still plenty of cDNA :)
 
+4) qPCR of RT-cDNA
+This can get complex -- set up plate plan first
+Then figure out best way to make master mix!
+Mix primers first (
+???? Diluition of primers and starting concentrations ????
+
+| cDNA       | h20     | Primer mix | 2x   |
+| ---------- | ------- | ---------- | ---- |
+| 2.4 ul     |  2.4 ul |     .2 ul  |  5 ul|
+
+Typically best to add primers to the plate as you can use same tips (down columns)
+
+Then add cDNA (across rows)
+
+
+??? Machine settings ????
 
 
 
