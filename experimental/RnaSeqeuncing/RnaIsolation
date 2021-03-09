@@ -1,5 +1,29 @@
 This is a protocol for isolating RNA, DNAse Treatment and qPCR -- qRT-PCR from start to finish
 
+1) RNA ISOLATION
+
+~ 10^6 cells to 1ml of Trizol
+
+a) Sit at room temp for 5 min.
+b) Add 200 ul of chloroform -- vortex 15sec until pink cloud spins to top
+c) Room temp 5 min
+d) Spin at 4C for 15 min @ 12,000 G
+e) Carefully pull the aqueous (clear) phase from the pink trizol
+- don't touch white protein percipitate
+- can get up to 600ul -- 400ul is safe
+- put aqueous phase in 1.5 ml ependorf tube
+g) Add equal volume of 70% ethanol (RNase free) 
+h) Transfer up to 700 ul of etoh/aqueous to RNeasy spin column
+i) Spin 8,000 G 15 seconds -- repeat with remaining etoh/aqueous
+j) Add 700 ul RW1 (make sure already prepared!) to RNeasy column
+** RW1 is toxic and needs to be disposed of in waste jar **
+k) Sping 8,000G 15sec
+l) Add 500 ul RPE (make sure already prepared from kit) spin 15 sec
+m) REPEAT: Add 500 ul RPE (make sure already prepared from kit) spin 15 sec
+n) quick spin to get remaining etoh off
+n) PLACE COLUMN IN NEW ELUTE tube
+o) Elute with 30-50 ul H2O -- make sure to pipette into middle of filter with out touching the filter.
+p) Check concentration and 260/280 on nanodrop etc...
 
 
-##RNA Isolation
+2) DNase
