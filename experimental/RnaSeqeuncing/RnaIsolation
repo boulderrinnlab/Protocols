@@ -27,3 +27,18 @@ p) Check concentration and 260/280 on nanodrop etc...
 
 
 2) DNase
+Our secret sauce is that Sigma makes a great buffer -- but Roche makes a better enzyme
+So we get both kits and use the respective good parts
+
+a) Add 1ug of RNA from above to DNase treatment
+
+Reaction mix: Total volume 20 ul
+
+| 10x Master | DNase I | RNase Inhibitor | RNA + H20 |
+| ---------- | ------- | --------------- | --------- |
+| 2ul        |  1ul    |      1ul        | 16ul total|
+
+
+
+
+
