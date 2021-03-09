@@ -38,6 +38,29 @@ Reaction mix: Total volume 20 ul
 | ---------- | ------- | --------------- | --------- |
 | 2ul        |  1ul    |      1ul        | 16ul total|
 
+b) Incubate at 37C for 15 min.
+c) Add 2 ul of stop solution
+d) Incubate at 75C for 10 min to stop reaction
+e) dilute 22ul final to 200ul final (still tons of RNA :)
+
+3) Reverse Transcription
+First time around it's best to do a -RT to be sure, but our Dnase protocol is very robust and pretty much 0 DNA left.
+** Best done in strip tubes **
+
+| random hex | NTPs    | RNA        |
+| ---------- | ------- | ---------- |
+| 1ul        |  1ul    |      11ul  |
+
+a) mix - spin down
+b) 65C for 5 min
+c) Ice 1 min
+
+| 5x Buffer  | DTT     | RNase Inh  | RT   |
+| ---------- | ------- | ---------- | ---- |
+| 4ul        |  1ul    |      1ul   |  1ul |
+
+
+
 
 
 
