@@ -1,0 +1,83 @@
+This is a protocol for isolating RNA, DNAse Treatment and qPCR -- qRT-PCR from start to finish
+
+1) RNA ISOLATION
+
+~ 10^6 cells to 1ml of Trizol
+
+a) Sit at room temp for 5 min.
+b) Add 200 ul of chloroform -- vortex 15sec until pink cloud spins to top
+c) Room temp 5 min
+d) Spin at 4C for 15 min @ 12,000 G
+e) Carefully pull the aqueous (clear) phase from the pink trizol
+- don't touch white protein percipitate
+- can get up to 600ul -- 400ul is safe
+- put aqueous phase in 1.5 ml ependorf tube
+g) Add equal volume of 70% ethanol (RNase free) 
+h) Transfer up to 700 ul of etoh/aqueous to RNeasy spin column
+i) Spin 8,000 G 15 seconds -- repeat with remaining etoh/aqueous
+j) Add 700 ul RW1 (make sure already prepared!) to RNeasy column
+** RW1 is toxic and needs to be disposed of in waste jar **
+k) Sping 8,000G 15sec
+l) Add 500 ul RPE (make sure already prepared from kit) spin 15 sec
+m) REPEAT: Add 500 ul RPE (make sure already prepared from kit) spin 15 sec
+n) quick spin to get remaining etoh off
+n) PLACE COLUMN IN NEW ELUTE tube
+o) Elute with 30-50 ul H2O -- make sure to pipette into middle of filter with out touching the filter.
+p) Check concentration and 260/280 on nanodrop etc...
+
+
+2) DNase
+Our secret sauce is that Sigma makes a great buffer -- but Roche makes a better enzyme
+So we get both kits and use the respective good parts
+
+a) Add 1ug of RNA from above to DNase treatment
+
+Reaction mix: Total volume 20 ul
+
+| 10x Master | DNase I | RNase Inhibitor | RNA + H20 |
+| ---------- | ------- | --------------- | --------- |
+| 2ul        |  1ul    |      1ul        | 16ul total|
+
+b) Incubate at 37C for 15 min.
+c) Add 2 ul of stop solution
+d) Incubate at 75C for 10 min to stop reaction
+
+
+3) Reverse Transcription
+First time around it's best to do a -RT to be sure, but our Dnase protocol is very robust and pretty much 0 DNA left.
+** Best done in strip tubes **
+
+| random hex | NTPs    | RNA        |
+| ---------- | ------- | ---------- |
+| 1ul        |  1ul    |      11ul  |
+
+a) mix - spin down
+b) 65C for 5 min
+c) Ice 1 min
+
+| 5x Buffer  | DTT     | RNase Inh  | RT   |
+| ---------- | ------- | ---------- | ---- |
+| 4ul        |  1ul    |      1ul   |  1ul |
+
+d) mix above 
+e) 23C 10 min
+f) 50-55C 10 min
+g) 80C 10 min
+h) Add 180ul RNase free h20 total 200ul (there is still plenty of cDNA :)
+
+4) qPCR of RT-cDNA
+This can get complex -- set up plate plan first
+Then figure out best way to make master mix!
+Mix primers first (
+???? Diluition of primers and starting concentrations ????
+
+| cDNA       | h20     | Primer mix | 2x   |
+| ---------- | ------- | ---------- | ---- |
+| 2.4 ul     |  2.4 ul |     .2 ul  |  5 ul|
+
+Typically best to add primers to the plate as you can use same tips (down columns)
+
+Then add cDNA (across rows)
+
+
+??? Machine settings ????
