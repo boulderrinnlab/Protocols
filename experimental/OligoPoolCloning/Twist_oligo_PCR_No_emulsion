@@ -1,0 +1,58 @@
+___________________ PCR Mix (25ul) ____________________
+
+** KAPA HiFi HotStart PCR Kit (Catalog #KK2502) **
+
+Mix together the following:
+______________________________________________________________________________
+5x KAPA HiFi Fidelity Buffer | 5ul | (final = 1x)
+10 mM each dNTP Mix | 0.75 μl | ( Final = 0.3 mM each dNTP)
+10 μM Forward Primer | 0.75 μl | (Final = 0.3 μM)
+10 μM Reverse Primer | 0.75 μl | (Final = 0.3 μM)
+Twist Oligo Pool (20 ng/μl) | 0.5 μl | (Final = 0.4 ng/μl)
+KAPA HiFi HotStart DNA Polymerase (1 U/μl) | 0.5 μl | (Final = 0.5 U/reaction)
+PCR grade water -> 25 ul final volume (for above = 16.75 ul)
+______________________________________________________________________________
+
+
+
+___________________ PCR Conditions _____________________
+
+For Oligo Pools > 200nt you need 12-14 cycles
+
+
+# One cycle
+
+Initialization Denaturation | 3 min at 95°C |
+
+# 12-14 cycles of:
+
+Denaturation | 20 sec at 98°C |
+Annealing | 15 sec at optimum temperature |
+Extension | 15 sec at 72°C |
+
+# One cycle  
+
+Final Extension | 1 min at 72°C |
+
+
+______________ DNA Purification _______________________________________
+
+# Double check the SPRI volumes with Chiara -- Twist recommends 1.8x
+
+Amplified pool SPRI cleanup (and concentration) - SPRI 1.6X  = it will remove everything <100bp
+1.	Bring the AMPure beads to RT and prepare fresh 80% ethanol
+2.	add 1.6x volume of vortexed AMPure beads (640μl to 400μl pool DNA from step 11 above) and mix by pipetting– gently to minimize foaming. Note: the pool can be concentrated (by speed-vac with heat on) to decrease the volume but I prefer not to do it. 
+3.	incubate 10 min at RT
+4.	on magnet for 2 min (or longer until the supernatant is clear)
+5.	discard supernatant – keep on magnet
+6.	wash: add 200μl 80% ethanol incubate 30 sec and discard ethanol (p200). 
+7.	repeat step 5 and discard all ethanol (p200 followed by p20)
+8.	dry beads at RT for 5 min (or longer based on the beads volume)
+9.	elute from beads by adding 32 μl water. Mix by pipetting – gently to minimize foaming
+10.	incubate 2 min at RT
+11.	on magnet for 2 min (or longer until the supernatant is clear)
+12.	transfer 30 μl of the supernatant to a new prelabeled low-binding tube.
+13.	repeat steps 8 to 10 (second elution from beads) to recover all of the cleaned pool.  
+14.	transfer 30 μl of the supernatant to the prelabeled tube from step 11.
+15.	Measure concentration by Qubit HS-DNA (use 4 μl) and check size on BioA.
+16.	Store at -20°C.
