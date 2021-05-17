@@ -1,0 +1,101 @@
+Anti-TUG1(83-111) Immunoprecipitation Protocol		Specifics from Joan: 80 uL slurry = 20 uL beads
+
+Buffers:
+
+Cell Lysis RIPA Buffer:
+50 mM Tris, pH 8
+150 mM NaCl
+0.5% NP-40
+1 mM DTT
+Protease Inhibitors
+
+Wash Buffer:
+50 mM Tris, pH 8
+
+	Sample Buffer (reducing):
+1% SDS
+100 mM DTT
+50 mM Tris, pH 7.5
+Add 1 μL 0.1% bromphenol blue to 30 uL Sample Buffer
+
+Protocol:
+
+Cell lysis:
+1.	Resuspend cell pellet in RIPA buffer (~1 mL per 10cm dish)
+2.	Incubate on ice for 10-15 minutes
+3.	Passage through 21 guage needle 5 times to further disrupt
+4.	Centrifuge at 12 000 × g for 10 minutes at 4ºC to remove particulate matter
+5.	Transfer the lysate (the supernatant) to a fresh tube. Keep on ice.
+
+Prepare the resin for pre-clearing:
+1.	Wash 3x with lysis buffer. Centrifuge at 12 000 × g for 20 seconds between the washes and discard the supernatant. 
+2.	Prepare a 50% slurry by mixing equal volumes of resin and lysis buffer. Store at 4ºC and mix well before use.
+
+Pre-clear lysate:
+1.	Add 50 to 100 μL nProtein A Sepharose 4 Fast Flow suspension (50% slurry) to 1 mL cell lysate in an Eppendorf tube. 
+2.	Gently mix for 1 hour at 4ºC. 
+3.	Centrifuge at 12 000 × g for 20 seconds. Save the supernatant.
+
+Immunoprecipitation:
+1.	Add 80 uL slurry Joan sent to 1 mL cell lysate
+2.	Incubate with gentle rocking overnight at 4ºC
+3.	Wash 3x with RIPA Buffer, spinning 12 000 × g for 20 seconds between washes and discarding the supernatants
+4.	Wash 1x with Wash Buffer, then spin 12 000 × g for 20 seconds between washes and discarding the supernatants
+
+Elution:
+1.	Suspend the final pellet in 30 μL sample buffer. 
+2.	Heat to 95ºC for 5 minutes. 
+3.	Centrifuge at 12 000 × g for 20 seconds to remove the beads. Carefully remove the supernatant. Analyze the supernatant by SDS-PAGE and Western Blot
+
+Protocol modified from: https://cdn.cytivalifesciences.com/dmm3bwsv3/AssetStream.aspx?mediaformatid=10061&destinationid=10016&assetid=11642
+
+Samples for experiment: 
+3T3 wildtype
+	3T3 overexpressing mUTR-3xFLAG
+	3T3 overexpressing mTIB-noTag
+
+
+
+Co-immunoprecipitation with protein A or protein G
+Materials Immunoprecipitation Starter Pack (contains nProtein A Sepharose 4 Fast Flow and Protein G Sepharose 4 Fast Flow)
+Lysis buffers
+Table 2.3 Common lysis buffers for mammalian tissue culture cells
+ 
+Name	Description	Stringency
+Low salt	1% Igepal™ CA-630, 50 mM Tris, 1 mM PMSF, pH 8.0	+
+Nonidet™ P-40	150 mM NaCl, 1% Igepal CA-630, 50 mM Tris, 1 mM PMSF, pH 8.0	++
+RIPA	150 mM NaCl, 1% Igepal CA-630, 0.5% sodium deoxycholate (DOC), 0.1% SDS, 50 mM Tris, 1 mM PMSF, pH 8.0	+++
+High salt	500 mM NaCl, 1% Igepal CA-630, 50 mM Tris, 1 mM PMSF, pH 8.	++++
+Other buffers
+PBS: 1 mM KH2PO4, 10 mM Na2HPO4, 137 mM NaCl, 2.7 mM KCl, pH 7.4
+Wash buffer: 50 mM Tris, pH 8
+Sample buffer: 1% SDS, 100 mM DTT, 50 mM Tris, pH 7.5 (reducing)
+ 
+Media preparation
+nProtein A Sepharose 4 Fast Flow and Protein G Sepharose 4 Fast Flow are supplied preswollen in 20% ethanol. Each medium must be thoroughly washed prior to use to remove the 20% ethanol storage solution. Residual ethanol may interfere with subsequent procedures.
+You will need 50 µl of nProtein A Sepharose 4 Fast Flow or Protein G Sepharose 4 Fast Flow 50% suspension per sample. Make sure that the beads are properly suspended before transferring.
+1.	Gently shake the bottle of nProtein A Sepharose 4 Fast Flow or Protein G Sepharose 4 Fast Flow to resuspend the medium.
+2.	Use a pipette with a wide-bore tip to remove sufﬁcient slurry and transfer the slurry to an appropriate container/tube. If needed, cut the pipette tip to create a larger opening.
+3.	Sediment the medium by centrifuging at 12 000 × g for 20 s. Carefully decant the supernatant.
+4.	Wash the medium by adding 10 volumes of lysis buffer (see below). Invert to mix.
+5.	Sediment the medium by centrifuging at 12 000 × g for 20 s. Decant the supernatant.
+6.	Repeat steps 4 and 5 for a total of three washes.
+For each ml of the original slurry of medium dispensed in step 2, add 0.5 ml of lysis buffer. This results in a 50% slurry. Store at 4º C and mix well before use.
+Binding of the antigen
+1.	Aliquot samples (500 µl) into new microcentrifuge tubes.
+2.	Add polyclonal serum (0.5 to 5 µl), hybridoma tissue culture supernatant (5 to 100 µl), ascites ﬂuid (0.1 to 1 µl), or puriﬁed monoclonal or polyclonal antibodies (add the volume corresponding to 1 to 5 µg). For controls, use non-immune antibodies that are as close to the speciﬁc antibody as possible (for example, polyclonal serum should be compared with normal serum from the same species).
+3.	Gently mix for 1 h at 4ºC.
+Precipitation of the immune complexes
+1.	Add 50 µl nProtein A Sepharose 4 Fast Flow or Protein G Sepharose 4 Fast Flow suspension (50% slurry).
+2.	Gently mix for 1 h at 4ºC.
+3.	Centrifuge at 12 000 × g for 20 s and save the pellet (the beads).
+4.	Wash the pellet three times with 1 ml lysis buffer and once with wash buffer. Centrifuge at 12 000 × g for 20 s between each wash and carefully remove the supernatants.
+Dissociation and analysis
+1.	Suspend the ﬁnal pellet in 30 µl sample buffer.
+2.	Heat to 95ºC and incubate for 3 min.
+3.	Centrifuge at 12 000 × g for 20 s to remove the beads. Carefully transfer the supernatant to a clean tube.
+4.	Add 1 µl 0.1% bromphenol blue to the supernatant.
+5.	Analyze the supernatant by SDS-PAGE, followed by protein staining, trypsin digestion, and analysis by mass spectrometry.
+
+
+
