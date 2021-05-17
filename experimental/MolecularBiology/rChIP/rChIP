@@ -1,0 +1,95 @@
+Note: RNase is added at the step (marked in red) when the primary antibody is added.
+1.	Culture cells until approx. 50-60% (or up to 80%) confluent.
+2.	Completely remove all media from cells or rinse cells with 1 x PBS. 
+3.	Gently add 5 mL of 1 % (v/v) formaldehyde in PBS (room temperature) and incubate at room temperature for 10 minutes, in the hood. 
+a.	Formaldehyde stock is 37 % from Fisher Scientific, cat# BP531500. Lives below Teisha’s bench.
+b.	Recipe: 9.73 mL PBS + 0.27 mL 37% formaldehyde. Prepare fresh with PBS.
+4.	Gently add 0.5 mL of 1.25 M glycine to inactivate formaldehyde and let stand for 2 minutes.
+a.	1.25 M glycine lives in the glass-door refrigerator, in 50 mL conical tube on the left.
+b.	Recipe: 4.625 g glycine in 50 mL water.
+5.	Thoroughly aspirate the solution from the plates (without disturbing the cells), add a little (<5 mL) of cold PBS back, and then scrape cells from the plate surface, collecting them into a 50 mL conical tube. Can combine.
+6.	Resuspend the cells in, and rinse the plates with, a total of 10 mL ice cold PBS (per plate).
+a.	Optional: Can do a cell count by taking approx. 0.25 mL of the homogenized cell mixture and using a P1000 pipet to pipet the cells in the cap of a 50 mL conical tube, slowly up and down about 10 times. Use these cells for cell counting (without trypan blue).
+7.	Spin at 1000 x g for 5 min at 4C and then carefully remove all PBS from pellet.
+8.	Freeze the pellet at -80°C for >1 hr (to begin lysing the cells). Possible overnight+ step.
+a.	Optional: Can store samples at -80C long-term until use. If smaller use samples are desired for freezing, can split cells into 15 mL tubes in step 6.
+9.	Lyse the frozen pellet in  ̴300 uL lysis buffer with 6 uL 50X Protease inhibitor (50mM Tris-Cl pH 8.1, 10mM EDTA, 0.5% SDS, 1x Complete PI [we use Pierce Protease inhibitor tablets Thermo Fisher -- Pierce Catalog #A32965]. Add protease inhibitors immediately before use. Can lyse on ice for 10 minutes. 
+a.	Before sonication, make sure the samples are completely thawed and clear; warm briefly in hands if the samples are cloudy from precipitated SDS.
+b.	To create the stock lysis buffer solution: Add 5 mL of 1 M Tris-Cl, 2 mL of 0.5 M EDTA, and 0.5 g SDS to a total of 100 mL H2O; many cells ChIP better in 0.5% SDS lysis buffer. 
+1.	Note: Wear dust mask and goggles when measuring out SDS.
+c.	0.5 M EDTA, pH 8.0 (Gibco 15575) lives in the reagent prep room above the balances; alternatively order your own bottle. 1 M Tris-Cl, pH 8.0, lives above Josh’s bench. Protease inhibitor tablets live in the glass-door refrigerator, top right shelf.
+1.	Tris-Cl (or Tris-HCl) recipe: Prepare 1 M pH 8.0 by dissolving 15.76 g of Tris HCl in 75.0 mL of H2O. Adjust the pH to 8.0 with NaOH. Fill to final volume of 100 mL with H2O. Sterile filter or store at 4C. Note: If “Tris-base” is used instead, add HCl to lower pH.
+2.	PI tablets: Dissolve 1 tablet in 1 mL H2O, warming, freeze as 100 uL aliquots at 50X.
+10.	Sonicate 500 uL (not more) in 1.5 mL Eppendorf tube in a BioRuptor 4 x 10 min on “high” power setting set for 30 seconds “On” and 30 seconds “Off”; also made sure had enough ice so that some bits were left between the 10 min refills/checks (filling with about 1 inch of ice). Sample used: about 16 million DB cells from 10/30; chrom prepared 11/1/2017; 963.0 ng/uL in about 500 uL. 
+a.	Note: Before using the BioRuptor, email users to reserve time.
+b.	The “off” stage is to allow the samples to cool.
+c.	It’s important to change the ice every 10 minutes or so to keep the water bath from heating up (which would be detrimental to the samples). Be sure not to fill it above the water line.
+d.	The efficiency of the sonication is dependent on the density of the cells in lysate; I find about one 15 cm plate can be efficiently lysed in 500 uL for most cell types. The efficiency of the sonication is also reduced by adding too much ice, which impedes the sound waves.
+e.	At the end of the sonication the solution should be mostly clear. Sometimes SDS precipitates if the water is kept too cold (ice changed too frequently) during the sonication. This results in poor sonication efficiency; the SDS in solution facilitates the sonication. The SDS can be redissolved by warming the sample in your hands. 
+f.	The chromatin should be sheared to around 200-600 bp. If not (e.g. the sample was too concentrated, the SDS precipitated during the sonication, or too much ice was used) the sample can be re-sonicated.
+g.	The size of the sheared chromatin should be checked on a gel by purifying a 10 uL aliquot (follow steps below). Efficient sonication is critical for successful ChIP.
+11.	After sonication spin the clear lysate at 16,000 x g for 15 min at 4°C and discard any small remaining pellet by transferring the supernatant to a new tube. This sample will constitute your “Input” sample and sample you will move forward with; the “input” is essential to later quantification of your ChIP.
+a.	Samples that were too concentrated (or are very membranous) will often have a fatty layer at the top; I have not yet tested the efficiency of this protocol where the fatty layer is also discarded)
+b.	Can store at -80C. Possible overnight+ step.
+c.	To later assess the size of the sheared chromatin, set aside a 15 uL “input” aliquot to later clarify and run on a gel. Still need to assess 15 uL aliquot for shearing.
+12.	Measure the concentration of the chromatin on the nanodrop (dsDNA). Sample: 16 million DB cells fixed 10/30; chrom prepared 11/1/2017; 963.0 ng/uL in about 500 uL. Testing pre-clearing protocol.
+13.	Pre-clear the lysate samples to reduce background (2 hrs @ 4C, rocking). 
+a.	Need a total of 2X20.8 uL = 41.6 uL chromatin (see sample info in next step).
+b.	Add 41.6 uL chromatin to 1000 uL IP buffer (500 uL + 500 uL).
+c.	Add 50 uL of washed magnetic beads (wash as described below).
+d.	Rock at 4C for 2 hrs.
+e.	Magnetically separate beads and recover IP buffer with samples. Use 500 uL for sample #1 and 500 uL for sample #2, in next step.
+14.	Use an appropriate amount for the antibody/scale of the ChIP; this often equates to about 25-75 uL of chromatin depending on the lysate/cell type. For IP, use about 25 uL (25 ug; can do range of 5-40 ug) (or 50-100 uL) of sonicated chromatin + 500 uL IP buffer (16.7 mM Tris-Cl pH 8.1, 1.2 mM EDTA, 167 mM NaCl, 1 % Triton X-100) + antibody. Use 2-4 ug (usually 2-10 uL) of antibody, depending on the antigen, or 5-10 uL (about 400 ug) of serum. Include an IgG control, or a matched serum, using the same total ug as the antibody. 
+a.	Note: Do not add protease inhibitors; adding them reduces the IP yield by at least 20%. I suspect it changes the pH; I have not tried PMSF.
+b.	Can check antibody and control concentrations on NanoDrop (using Protein A280, 1 Abs, 1 mg/mL settings; antibodies are typically 0.2-1 ug/uL, and serum may be 30-8c0 ug/uL). Can also check lysate on NanoDrop (using dsDNA; may be around 1 ug/uL).
+c.	IP buffer recipe: Add 1.67 mL of 1 M Tris-Cl pH 8.0, 240 uL of 0.5 M EDTA, 10 mL of 10% Triton X-100, and dissolve 0.976 g NaCl to a total of 100 mL H2O. Sterile filter.
+
+15.	Prepare the following antibody binding/pulldown reactions.
+
+25 µl lysate was added to 500 µl IP buffer with one of the following antibodies:
+2 µl of anti-EZH2 (Cell Signaling Technologies 5246)
+2 µl of anti-SUZ12 (Cell Signaling Technologies 3737)
+10 µl of anti-TBP (Santa Cruz Biotechnology sc-421)
+2 µl of anti-Rpb1 (Cell Signaling Technologies 14958)
+(these four antibodies have been used in previous rChIP experiments)
+
+Either RNase A or RNase T1 can be used:
+
+For +RNase A (Thermo Scientific EN0531) samples:
+Three concentrations have been tested – 5000 ng/mL (the concentration used in the Nature Genetics paper), 62 ng/mL, and 2.3 ng/mL
+For +RNase T1 (Thermo Scientific EN0541) samples, final concentration of T1 is 0.5U/µL
+For -RNase samples, no RNase A or T1 is added.
+
+Incubate IP samples with antibodies and with or without RNase for overnight with nutation in the cold room.
+
+16.	Next day, add 25 uL of washed beads (Pierce Protein A/G Magnetic Beads, #88803) and incubate for 1 hr with nutation/mixing at room temp. 
+a.	To prepare beads, wash with IP buffer twice and resuspend at same concentration (i.e., bead slurry should be twice the volume of the packed beads). The bead slurry is a 1 to 1 mixture; when you spin it down, the packed beads usually represent about half the total volume. When resuspending in IP buffer, the total volume of the washed beads should be the same as the original slurry volume.
+1.	When pipetting the bead solution, mix the stock solution first (by inversion and/or gentle vortexing) and cut the pipet tip. 
+2.	For example, if you have four IP samples with 25 uL each, pipet 120 uL bead suspension (4 X 25 uL = 100 uL, plus 20 uL extra) into a 1.5 mL tube. Prepared in 15 separate tubes.
+3.	To wash, add 175 uL IP buffer, gently vortex, place in magnetic rack to separate out beads (for 30+ sec), aspirate, and repeat wash by adding 1 mL IP buffer, invert several times or gently vortex to mix for 1 minute, then aspirate and resuspend in original volume (i.e., 25 uL IP buffer per sample).
+17.	Following 1 hr IP step, remove the IP buffer by using the magnetic rack.
+18.	Remove the sample tubes from the magnetic rack. To remove nonspecific binding, wash the beads in 1 mL X 2 (twice)of Low salt wash buffer (LSB), ensuring complete resuspension of the beads to wash thoroughly (gently mix) then after placing in the magnetic rack for 30 seconds, remove the wash buffer - I use an ultrafine gel loading tip on my aspirator; repeat with high salt wash buffer (HSB, 1 mL wash twice), then LiCL wash buffer (1 mL wash twice), and then TE (1 mL wash twice) to remove salts from other washes. For each wash, thoroughly remove the buffer using the magnetic rack (letting sit for 30+ sec) without touching the beads. 
+a.	Store wash buffers at room temperature.
+b.	LSB: 20 mM Tris-Cl pH 8.0, 2 mM EDTA, 150 mM NaCl, 0.1 % SDS, 1% Triton X-100
+1.	Recipe: Add 2.0 mL of 1 M Tris-Cl pH 8.0, 400 uL of 0.5 M EDTA, 0.1 g SDS, 10 mL of 10% Triton X-100, and dissolve 0.877 g NaCl to a total of 100 mL H2O. Sterile filter.
+c.	HSB: 20 mM Tris-Cl pH 8.0, 2 mM EDTA, 500 mM NaCl, 0.1 % SDS, 1% Triton X-100
+1.	Recipe: Add 2.0 mL of 1 M Tris-Cl pH 8.0, 400 uL of 0.5 M EDTA, 0.1 g SDS, 10 mL of 10% Triton X-100 (or IGEPAL) (cut pipet tip), and dissolve 2.92 g NaCl to a total of 100 mL H2O. Sterile filter.  
+d.	LiCl buffer: 10 mM Tris-Cl pH 8.0, 1 mM EDTA, 250mM LiCl, 1% sodium deoxycholate, 1% IGEPAL (NP40 substitute).
+1.	Recipe: Add 1.0 mL of 1 M Tris-Cl pH 8.0, 200 uL of 0.5 M EDTA, 1.06 g LiCl, 10 mL of 10% sodium deoxycholate solution, and 1 mL of 100% NP40 (or IGEPAL) (cut pipet tip) to a total of 100 mL H2O. Sterile filter. Make 10% stock solution of sodium deoxycholate by dissolving 5 g (in original bottle) in 50 mL water, mix.
+e.	TE: 20 mM Tris pH 8, 2 mM EDTA.
+1.	Recipe: Add 2.0 mL of 1 M Tris-Cl pH 8.0 and 400 uL of 0.5 M EDTA to a total of 100 mL H2O. Sterile filter.
+19.	Elute the antibody:IP complex from the beads by incubating in 120 uL elution buffer (100 mM sodium bicarbonate [NaHCO3], 1 % SDS, and 200 mM NaCl added at the end of the incubation) at room temperature with mixing for 20 min. Include 10 uL “input” (aliquot) from step 11; keep this on ice during elution.
+a.	Mix a few times during the incubation period. 
+b.	Remove the beads by using the magnetic rack and taking the supernatant; transfer the supernatant to a new tube. 
+c.	Add 5 uL of 5 M NaCl (200 mM NaCl final concentration) to the supernatant in the new tube right before incubating at 65°C (in the next step). 5M NaCl: 11.69 g in 40 mL water.
+d.	Elution buffer recipe: Add 0.84 g sodium bicarbonate and 1.0 g SDS to a total of 100 mL H2O. Sterile filter.
+20.	For crosslink reversal, incubate the supernatant at 65°C for >6 h (use the waterbath by CJ’s bench). Possible overnight step.
+21.	Remove protein and RNA from the sample by freshly making up and adding 14 uL of 1 M TRIS pH 8, 3 uL of 500 mM EDTA, 3 uL of proteinase K (Life Technologies, cat# AM2544, make 20 mg/mL), 1.0 uL of DNase-free RNase A (Thermo Scientific cat# EN0531, 1 ug/uL; stock is at 10 mg/mL, but made diluted aliquots at 1 ug/uL), 1 uL Glycogen and incubate at 37°C for 60 min. 
+a.	Note: If you take an aliquot before proteinase K treatment, immunoblots can be performed on the eluted proteins. This is one way of assessing IP efficiency. A good protein to test is Histone 3.
+b.	Proteinase K powder is in the deli fridge, mid shelf; made aliquots at -20C. RNase A stock was at 10 mg/mL; made 1 ug/uL aliquots to use, in -20C.
+c.	For Tris pH 6.5, use 1 M Tris pH 8.0 and pH it to 6.5.
+22.	To clean up the DNA, extract once with  equal volume of phenol:chloroform:isoamyl; spin down at >13000g for 5 mins; then ethanol precipitation (add 1uL glycogen to facilitate visualization of the pellet)
+Note: some people in our lab use Omega EZNA Cycle Pure Kit (V-Spin) (D6492) range is 100 bp-10 kb, binding capacity up to 30 ug).
+23.	Resuspend DNA in 40 uL of TE. Resuspend the “input” in 80 uL of TE.
+24.	Run 25 uL of “input” on a 1% agarose gel to assess the size of the fragments (+5 uL 6X loading dye). Use a ladder that has 100 bp band. 
+25.	Use 1 uL in a 10 uL qPCR reaction (Thermo Scientific Catalog # 4472918). Normalize ChIP samples to input samples.
